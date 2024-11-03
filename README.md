@@ -15,3 +15,6 @@ The **College Directory Application** is a web-based platform designed to facili
 - **Frontend**: React.js
 - **Backend**: Java with Spring Boot framework
 - **Database**: PostgreSQL
+
+## Demo Video Link
+- https://drive.google.com/drive/folders/1TK13y5vz8gPsA24PSQv4qCTz6PoU1yIv
