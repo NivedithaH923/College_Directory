@@ -1,0 +1,23 @@
+.student-content {
+    margin-left: 120px;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  .student-table {
+    width: 70%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-left: 350px;
+  }
+  
+  .student-table th, .student-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .student-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }

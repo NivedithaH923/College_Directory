@@ -1,0 +1,85 @@
+.student-content {
+    margin-left: 310px;
+    padding: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 200px;
+  }
+  
+  .card {
+    background-color: #d2a1ba;
+    width: 250px;
+    height: 120px;
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Filters styling */
+.filters {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 50px;
+    margin-left: 190px;
+  }
+  
+  .search-bar {
+    padding: 10px 12px;
+    width: 280px;
+    border-radius: 20px;
+    border: 1px solid #060606;
+  } 
+  .search-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .search-icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #aaa; /* Change color as needed */
+  }
+  
+  .student-table {
+    margin-top: 20px;
+    overflow-x: auto; /* Makes table responsive */
+    margin-left: 420px;
+  }
+  
+  table {
+    width: 70%;
+    border-collapse: collapse;
+    
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  
+  
+  .filter-dropdown {
+    padding: 10px;
+    border-radius: 20px;
+    width: 180px;
+    border: 1px solid #060606;
+  }
